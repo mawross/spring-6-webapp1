@@ -1,10 +1,10 @@
-package git.spring6webapp1;
+package guru.springframework;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Spring6Webapp1ApplicationTests {
+class Spring6WebappApplicationTests {
 
     @Test
     void contextLoads() {
